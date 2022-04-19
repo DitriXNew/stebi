@@ -1,0 +1,74 @@
+2022-04-19T23:17:39+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:doc-comment-field-type	CommonModule.DocumentsServer.Module	line 3	Field "AgreementParameters" has no type definition
+2022-04-19T23:17:31+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:doc-comment-field-type	CommonModule.GetItemInfo.Module	line 3	Field "Period" has no type definition
+2022-04-19T23:17:31+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:doc-comment-field-type	CommonModule.GetItemInfo.Module	line 16	Field "Price" has no type definition
+2022-04-19T23:17:31+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:doc-comment-field-type	CommonModule.GetItemInfo.Module	line 15	Field "Price" has no type definition
+2022-04-19T23:17:31+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:doc-comment-field-type	CommonModule.GetItemInfo.Module	line 1	Field "TableItemKeys" has no type definition
+2022-04-19T23:17:22+0300	Minor		IRP		Configuration.CommandInterface		For object 'IRP' is specified subsystems order, but the subsystem 'Accounting' is absent in the subsystems order
+2022-04-19T23:17:29+0300	Minor		IRP		DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 13	Possible wrong string literal content [Server]
+2022-04-19T23:17:36+0300	Minor		IRP		CommonModule.AddAttributesAndPropertiesServer.Module	line 613	Possible wrong string literal content [Server]
+2022-04-19T23:17:36+0300	Minor		IRP		CommonModule.AddAttributesAndPropertiesServer.Module	line 633	Possible wrong string literal content [Server]
+2022-04-19T23:17:38+0300	Minor		IRP		CommonModule.UsersEvent.Module	line 54	Possible wrong string literal content [Server]
+2022-04-19T23:17:29+0300	Minor		IRP		CommonModule.IDInfoClient.Module	line 40	Possible wrong string literal content [Thin client]
+2022-04-19T23:17:36+0300	Minor		IRP		CommonModule.BarcodeClient.Module	line 44	Possible wrong string literal content [Thin client]
+2022-04-19T23:17:36+0300	Minor		IRP		CommonModule.BarcodeClient.Module	line 73	Possible wrong string literal content [Thin client]
+2022-04-19T23:17:29+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 196	Region is empty
+2022-04-19T23:17:34+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	Document.ManualRegisterEntry.Form.DocumentForm.Form.Module	line 69	Region is empty
+2022-04-19T23:17:34+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	Document.ManualRegisterEntry.Form.DocumentForm.Form.Module	line 73	Region is empty
+2022-04-19T23:17:34+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	Document.ManualRegisterEntry.Form.DocumentForm.Form.Module	line 77	Region is empty
+2022-04-19T23:17:34+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	AccumulationRegister.R4032B_GoodsInTransitOutgoing.ManagerModule	line 22	Region is empty
+2022-04-19T23:17:34+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	AccumulationRegister.R4031B_GoodsInTransitIncoming.ManagerModule	line 22	Region is empty
+2022-04-19T23:17:33+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	Document.PlannedReceiptReservation.Form.DocumentForm.Form.Module	line 181	Region is empty
+2022-04-19T23:17:38+0300	Minor	Code style	IRP	com.e1c.v8codestyle.bsl:module-region-empty	Document.ItemStockAdjustment.Form.DocumentForm.Form.Module	line 133	Region is empty
+2022-04-19T23:17:29+0300	Minor		IRP		Configuration.ManagedApplicationModule	line 15	Return value type "EnumRef.SystemClientType" that has different environment than calling context
+2022-04-19T23:17:29+0300	Minor		IRP		Configuration.ManagedApplicationModule	line 17	Return value type "EnumRef.SystemClientType" that has different environment than calling context
+2022-04-19T23:17:26+0300	Minor	Code style	IRP	com.e1c.v8codestyle.ql:ql-camel-case-string-literal	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		String literal contains non CamelCase symbols: " ("
+2022-04-19T23:17:26+0300	Minor	Code style	IRP	com.e1c.v8codestyle.ql:ql-camel-case-string-literal	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		String literal contains non CamelCase symbols: " ("
+2022-04-19T23:17:26+0300	Minor	Code style	IRP	com.e1c.v8codestyle.ql:ql-camel-case-string-literal	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		String literal contains non CamelCase symbols: " ("
+2022-04-19T23:17:26+0300	Minor	UI style	IRP	com.e1c.v8codestyle.md:md-standard-attribute-synonym-empty	Catalog.PaymentTypes		Synonym of the 'Parent' standard attribute is not specified
+2022-04-19T23:17:35+0300	Minor		IRP		CommonModule.AccountingClientServer.Module	line 108	This statement might never be executed because 'Return' statement was found earlier [Server, Thin client]
+2022-04-19T23:17:38+0300	Minor		IRP		CommonModule.ExternalCommandsClient.Module	line 26	Transfering object of type 'DataProcessorObjectDataProcessorName' between client and server is not allowed [Thin client]
+2022-04-19T23:17:29+0300	Minor		IRP		CommonModule.IDInfoClient.Module	line 70	Transfering object of type 'DataProcessorObjectDataProcessorName' between client and server is not allowed [Thin client]
+2022-04-19T23:17:33+0300	Minor		IRP		Catalog.IntegrationSettings.Form.ItemForm.Form.Module	line 53	Transfering object of type 'InternetMailMessage' between client and server is not allowed [Thin client]
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.DocCashPaymentServer.Module	line 25	Using non-recommended method
+2022-04-19T23:17:38+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	Document.CashTransferOrder.Form.AvailableChoiceForm.Form.Module	line 23	Using non-recommended method
+2022-04-19T23:17:33+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	InformationRegister.T1010S_ScannedBarcode.ManagerModule	line 12	Using non-recommended method
+2022-04-19T23:17:38+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.DocBankPaymentServer.Module	line 25	Using non-recommended method
+2022-04-19T23:17:34+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.FillingWithDefaultDataEvent.Module	line 181	Using non-recommended method
+2022-04-19T23:17:31+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	Report.PriceInfo.Form.ReportForm.Form.Module	line 9	Using non-recommended method
+2022-04-19T23:17:29+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.DocMoneyTransferServer.Module	line 64	Using non-recommended method
+2022-04-19T23:17:29+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.BarcodeServer.Module	line 29	Using non-recommended method
+2022-04-19T23:17:39+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.DocumentsClient.Module	line 1586	Using non-recommended method
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.Form.Form.Form.Module	line 198	Using non-recommended method
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.Form.Form.Form.Module	line 201	Using non-recommended method
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.Form.Form.Form.Module	line 234	Using non-recommended method
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.Form.Form.Form.Module	line 258	Using non-recommended method
+2022-04-19T23:17:30+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.Form.Form.Form.Module	line 261	Using non-recommended method
+2022-04-19T23:17:37+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.CalculationStringsClientServer.Module	line 825	Using non-recommended method
+2022-04-19T23:17:37+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.CalculationStringsClientServer.Module	line 827	Using non-recommended method
+2022-04-19T23:17:31+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	DataProcessor.PrintLabels.ObjectModule	line 41	Using non-recommended method
+2022-04-19T23:17:36+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	Catalog.Currencies.Form.SelectIntegration.Form.Module	line 25	Using non-recommended method
+2022-04-19T23:17:39+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.DocumentsServer.Module	line 262	Using non-recommended method
+2022-04-19T23:17:37+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.LandedCostServer.Module	line 784	Using non-recommended method
+2022-04-19T23:17:37+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.LandedCostServer.Module	line 872	Using non-recommended method
+2022-04-19T23:17:37+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	CommonModule.LandedCostServer.Module	line 952	Using non-recommended method
+2022-04-19T23:17:32+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	Report.PriceInfo.ObjectModule	line 8	Using non-recommended method
+2022-04-19T23:17:32+0300	Minor	Configuration error	IRP	com.e1c.v8codestyle.bsl:use-non-recommended-method	Report.PriceInfo.ObjectModule	line 67	Using non-recommended method
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:property-return-type	CommonModule.LocalizationEvents.Module	line 173	Feature access "Error_002" has no return type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:property-return-type	CommonModule.LocalizationEvents.Module	line 333	Feature access "Error_003" has no return type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:property-return-type	CommonModule.LocalizationEvents.Module	line 155	Feature access "Error_005" has no return type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:property-return-type	CommonModule.LocalizationEvents.Module	line 404	Feature access "Error_089" has no return type
+2022-04-19T23:17:29+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:property-return-type	DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 10	Feature access "PayButtons" has no return type
+2022-04-19T23:17:29+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:dynamic-access-method-not-found	DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 37	Method "Add" not found in accessed object
+2022-04-19T23:17:27+0300	Major	Performance	IRP	com.e1c.v8codestyle.ql:ql-join-to-sub-query	SettingsStorage.ReportOptions.Form.SaveForm.Form		Query join to sub query not allowed
+2022-04-19T23:17:23+0300	Major	Performance	IRP	com.e1c.v8codestyle.ql:ql-join-to-sub-query	SettingsStorage.ReportOptions.Form.LoadForm.Form		Query join to sub query not allowed
+2022-04-19T23:17:26+0300	Major	Performance	IRP	com.e1c.v8codestyle.ql:ql-join-to-sub-query	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		Query join to sub query not allowed
+2022-04-19T23:17:26+0300	Major	Performance	IRP	com.e1c.v8codestyle.ql:ql-join-to-sub-query	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		Query join to sub query not allowed
+2022-04-19T23:17:26+0300	Major	Performance	IRP	com.e1c.v8codestyle.ql:ql-join-to-sub-query	ChartOfAccounts.R6010C_Master.Form.ListForm.Form		Query join to sub query not allowed
+2022-04-19T23:17:29+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:invocation-parameter-type-intersect	DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 103	Type of "1" parameter not intersect with invocation type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:invocation-parameter-type-intersect	CommonModule.LocalizationEvents.Module	line 155	Type of "1" parameter not intersect with invocation type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:invocation-parameter-type-intersect	CommonModule.LocalizationEvents.Module	line 173	Type of "1" parameter not intersect with invocation type
+2022-04-19T23:17:37+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:invocation-parameter-type-intersect	CommonModule.LocalizationEvents.Module	line 404	Type of "1" parameter not intersect with invocation type
+2022-04-19T23:17:29+0300	Major	Code style	IRP	com.e1c.v8codestyle.bsl:variable-value-type	DataProcessor.PointOfSale.Form.PaymentTypes.Form.Module	line 10	Variable "ButtonsArray" has no value type
+2022-04-19T23:17:26+0300	Critical	Warning	IRP	com.e1c.v8codestyle.md:common-module-name-client	CommonModule.CommonFormActions		Client common module name should end with "Клиент,Client" suffix
+2022-04-19T23:17:23+0300	Critical	Warning	IRP	com.e1c.v8codestyle.md:common-module-name-client	CommonModule.MobileSubsystem		Client common module name should end with "Клиент,Client" suffix
+2022-04-19T23:17:35+0300	Configuration error		IRP		CommonModule.AddDataProcServer.Module	line 37	This code will not compile due to the previously defined execution environments (Check the compilation directives, parent preprocessor instruction, the execution environments of the module)

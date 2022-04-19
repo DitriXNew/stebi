@@ -1,0 +1,1032 @@
+{
+"issues": [
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"primaryLocation": {
+"message": "Field \"AgreementParameters\" has no type definition",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocumentsServer/Module.bsl",
+"textRange": {
+"startLine": 3
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"primaryLocation": {
+"message": "Field \"Period\" has no type definition",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/GetItemInfo/Module.bsl",
+"textRange": {
+"startLine": 3
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"primaryLocation": {
+"message": "Field \"Price\" has no type definition",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/GetItemInfo/Module.bsl",
+"textRange": {
+"startLine": 16
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"primaryLocation": {
+"message": "Field \"Price\" has no type definition",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/GetItemInfo/Module.bsl",
+"textRange": {
+"startLine": 15
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"primaryLocation": {
+"message": "Field \"TableItemKeys\" has no type definition",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/GetItemInfo/Module.bsl",
+"textRange": {
+"startLine": 1
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Server]",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 13
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Server]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/AddAttributesAndPropertiesServer/Module.bsl",
+"textRange": {
+"startLine": 613
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Server]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/AddAttributesAndPropertiesServer/Module.bsl",
+"textRange": {
+"startLine": 633
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Server]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/UsersEvent/Module.bsl",
+"textRange": {
+"startLine": 54
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/IDInfoClient/Module.bsl",
+"textRange": {
+"startLine": 40
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/BarcodeClient/Module.bsl",
+"textRange": {
+"startLine": 44
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"primaryLocation": {
+"message": "Possible wrong string literal content [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/BarcodeClient/Module.bsl",
+"textRange": {
+"startLine": 73
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 196
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/Documents/ManualRegisterEntry/Forms/DocumentForm/Module.bsl",
+"textRange": {
+"startLine": 69
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/Documents/ManualRegisterEntry/Forms/DocumentForm/Module.bsl",
+"textRange": {
+"startLine": 73
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/Documents/ManualRegisterEntry/Forms/DocumentForm/Module.bsl",
+"textRange": {
+"startLine": 77
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/AccumulationRegisters/R4032B_GoodsInTransitOutgoing/ManagerModule.bsl",
+"textRange": {
+"startLine": 22
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/AccumulationRegisters/R4031B_GoodsInTransitIncoming/ManagerModule.bsl",
+"textRange": {
+"startLine": 22
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/Documents/PlannedReceiptReservation/Forms/DocumentForm/Module.bsl",
+"textRange": {
+"startLine": 181
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"primaryLocation": {
+"message": "Region is empty",
+"filePath": "C:/Git/IRP/IRP/src/Documents/ItemStockAdjustment/Forms/DocumentForm/Module.bsl",
+"textRange": {
+"startLine": 133
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Return value type %1 that has different environment than calling context",
+"primaryLocation": {
+"message": "Return value type \"EnumRef.SystemClientType\" that has different environment than calling context",
+"filePath": "C:/Git/IRP/IRP/src/Configuration/ManagedApplicationModule.bsl",
+"textRange": {
+"startLine": 15
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Return value type %1 that has different environment than calling context",
+"primaryLocation": {
+"message": "Return value type \"EnumRef.SystemClientType\" that has different environment than calling context",
+"filePath": "C:/Git/IRP/IRP/src/Configuration/ManagedApplicationModule.bsl",
+"textRange": {
+"startLine": 17
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "This statement might never be executed because %1 statement was found earlier",
+"primaryLocation": {
+"message": "This statement might never be executed because 'Return' statement was found earlier [Server, Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/AccountingClientServer/Module.bsl",
+"textRange": {
+"startLine": 108
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Transfering object of type %1 between client and server is not allowed",
+"primaryLocation": {
+"message": "Transfering object of type 'DataProcessorObjectDataProcessorName' between client and server is not allowed [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/ExternalCommandsClient/Module.bsl",
+"textRange": {
+"startLine": 26
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Transfering object of type %1 between client and server is not allowed",
+"primaryLocation": {
+"message": "Transfering object of type 'DataProcessorObjectDataProcessorName' between client and server is not allowed [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/IDInfoClient/Module.bsl",
+"textRange": {
+"startLine": 70
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "Transfering object of type %1 between client and server is not allowed",
+"primaryLocation": {
+"message": "Transfering object of type 'InternetMailMessage' between client and server is not allowed [Thin client]",
+"filePath": "C:/Git/IRP/IRP/src/Catalogs/IntegrationSettings/Forms/ItemForm/Module.bsl",
+"textRange": {
+"startLine": 53
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocCashPaymentServer/Module.bsl",
+"textRange": {
+"startLine": 25
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/Documents/CashTransferOrder/Forms/AvailableChoiceForm/Module.bsl",
+"textRange": {
+"startLine": 23
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/InformationRegisters/T1010S_ScannedBarcode/ManagerModule.bsl",
+"textRange": {
+"startLine": 12
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocBankPaymentServer/Module.bsl",
+"textRange": {
+"startLine": 25
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/FillingWithDefaultDataEvent/Module.bsl",
+"textRange": {
+"startLine": 181
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/Reports/PriceInfo/Forms/ReportForm/Module.bsl",
+"textRange": {
+"startLine": 9
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocMoneyTransferServer/Module.bsl",
+"textRange": {
+"startLine": 64
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/BarcodeServer/Module.bsl",
+"textRange": {
+"startLine": 29
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocumentsClient/Module.bsl",
+"textRange": {
+"startLine": 1586
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/Forms/Form/Module.bsl",
+"textRange": {
+"startLine": 198
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/Forms/Form/Module.bsl",
+"textRange": {
+"startLine": 201
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/Forms/Form/Module.bsl",
+"textRange": {
+"startLine": 234
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/Forms/Form/Module.bsl",
+"textRange": {
+"startLine": 258
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/Forms/Form/Module.bsl",
+"textRange": {
+"startLine": 261
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/CalculationStringsClientServer/Module.bsl",
+"textRange": {
+"startLine": 825
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/CalculationStringsClientServer/Module.bsl",
+"textRange": {
+"startLine": 827
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PrintLabels/ObjectModule.bsl",
+"textRange": {
+"startLine": 41
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/Catalogs/Currencies/Forms/SelectIntegration/Module.bsl",
+"textRange": {
+"startLine": 25
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/DocumentsServer/Module.bsl",
+"textRange": {
+"startLine": 262
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LandedCostServer/Module.bsl",
+"textRange": {
+"startLine": 784
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LandedCostServer/Module.bsl",
+"textRange": {
+"startLine": 872
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LandedCostServer/Module.bsl",
+"textRange": {
+"startLine": 952
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/Reports/PriceInfo/ObjectModule.bsl",
+"textRange": {
+"startLine": 8
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"primaryLocation": {
+"message": "Using non-recommended method",
+"filePath": "C:/Git/IRP/IRP/src/Reports/PriceInfo/ObjectModule.bsl",
+"textRange": {
+"startLine": 67
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"primaryLocation": {
+"message": "Feature access \"Error_002\" has no return type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 173
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"primaryLocation": {
+"message": "Feature access \"Error_003\" has no return type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 333
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"primaryLocation": {
+"message": "Feature access \"Error_005\" has no return type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 155
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"primaryLocation": {
+"message": "Feature access \"Error_089\" has no return type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 404
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"primaryLocation": {
+"message": "Feature access \"PayButtons\" has no return type",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 10
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Метод не найден",
+"primaryLocation": {
+"message": "Method \"Add\" not found in accessed object",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 37
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"primaryLocation": {
+"message": "Type of \"1\" parameter not intersect with invocation type",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 103
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"primaryLocation": {
+"message": "Type of \"1\" parameter not intersect with invocation type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 155
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"primaryLocation": {
+"message": "Type of \"1\" parameter not intersect with invocation type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 173
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"primaryLocation": {
+"message": "Type of \"1\" parameter not intersect with invocation type",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/LocalizationEvents/Module.bsl",
+"textRange": {
+"startLine": 404
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl:variable-value-type",
+"primaryLocation": {
+"message": "Variable \"ButtonsArray\" has no value type",
+"filePath": "C:/Git/IRP/IRP/src/DataProcessors/PointOfSale/Forms/PaymentTypes/Module.bsl",
+"textRange": {
+"startLine": 10
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+},
+{
+"engineId": "edt",
+"ruleId": "This code will not compile due to the previously defined execution environments (Check the compilation directives_ parent preprocessor instruction_ the execution environments of the module)",
+"primaryLocation": {
+"message": "This code will not compile due to the previously defined execution environments (Check the compilation directives, parent preprocessor instruction, the execution environments of the module)",
+"filePath": "C:/Git/IRP/IRP/src/CommonModules/AddDataProcServer/Module.bsl",
+"textRange": {
+"startLine": 37
+}
+},
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"effortMinutes": 0,
+"secondaryLocations": []
+}
+],
+"rules": [
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Поле не имеет описания типа",
+"name": "style.bsl.Поле не имеет описания типа",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Field \"AgreementParameters\" has no type definition"
+},
+{
+"engineId": "edt",
+"ruleId": "Possible wrong string literal content",
+"name": "Possible wrong string literal content",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Possible wrong string literal content [Server]"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Область пустая",
+"name": "style.bsl.Область пустая",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Region is empty"
+},
+{
+"engineId": "edt",
+"ruleId": "Return value type %1 that has different environment than calling context",
+"name": "Return value type %1 that has different environment than calling context",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Return value type \"EnumRef.SystemClientType\" that has different environment than calling context"
+},
+{
+"engineId": "edt",
+"ruleId": "This statement might never be executed because %1 statement was found earlier",
+"name": "This statement might never be executed because %1 statement was found earlier",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "This statement might never be executed because 'Return' statement was found earlier [Server, Thin client]"
+},
+{
+"engineId": "edt",
+"ruleId": "Transfering object of type %1 between client and server is not allowed",
+"name": "Transfering object of type %1 between client and server is not allowed",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Transfering object of type 'DataProcessorObjectDataProcessorName' between client and server is not allowed [Thin client]"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Используется не рекомендуемый метод",
+"name": "style.bsl.Используется не рекомендуемый метод",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Using non-recommended method"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"name": "style.bsl.Свойство не имеет типа возвращаемого значения",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Feature access \"Error_002\" has no return type"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Метод не найден",
+"name": "style.bsl.Метод не найден",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Method \"Add\" not found in accessed object"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"name": "style.bsl.Тип параметра не пересекается с вызываемым типом",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Type of \"1\" parameter not intersect with invocation type"
+},
+{
+"engineId": "edt",
+"ruleId": "style.bsl:variable-value-type",
+"name": "style.bsl:variable-value-type",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "Variable \"ButtonsArray\" has no value type"
+},
+{
+"engineId": "edt",
+"ruleId": "This code will not compile due to the previously defined execution environments (Check the compilation directives_ parent preprocessor instruction_ the execution environments of the module)",
+"name": "This code will not compile due to the previously defined execution environments (Check the compilation directives_ parent preprocessor instruction_ the execution environments of the module)",
+"type": "CODE_SMELL",
+"severity": "MINOR",
+"description": "This code will not compile due to the previously defined execution environments (Check the compilation directives, parent preprocessor instruction, the execution environments of the module)"
+}
+]
+}
